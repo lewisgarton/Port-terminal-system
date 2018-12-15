@@ -1,0 +1,4 @@
+#MULTIPLE_SCHEMA_EXTRACT
+TerminalSystem.scm TerminalSystem.ddb
+TerminalView.scm TerminalView.ddb
+TerminalUnitTests.scm TerminalUnitTests.ddb
